@@ -11,3 +11,4 @@ Listed my files
 10-back :  changes the working directory to the previous one. 
 11-lists : lists all file : lists all filess
 12-file_type : prints the type of the file named
+13-symbolic_link: symbolic link
