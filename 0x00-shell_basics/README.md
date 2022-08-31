@@ -4,4 +4,5 @@ Listed my files
 ./3-listfiles : list files in a long format
 4-listmorefiles: Display current directory contents, including hidden file
 5-listfilesdigitonly; Display current directory contents.
-6-firstdirectory ;  creates a directory 
+6-firstdirectory ;  creates a directory
+7-movethatfile : move files 
