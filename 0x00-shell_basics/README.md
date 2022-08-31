@@ -6,4 +6,5 @@ Listed my files
 5-listfilesdigitonly; Display current directory contents.
 6-firstdirectory ;  creates a directory
 7-movethatfile : move files
-8-firstdelete; Delete the file betty 
+8-firstdelete; Delete the file betty
+9-firstdirdeletion; Delete the directory my_first_directory that is in the /tmp directory. 
