@@ -7,3 +7,4 @@ create 0-iam_betty
 6- multiple execution adds executes permission to the owner
 7-execute add execute permission to everyone
 8-James-Bond sets permission to the file`
+9-John_Doe executes permission
