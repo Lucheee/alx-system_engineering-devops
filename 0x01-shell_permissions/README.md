@@ -4,4 +4,5 @@ create 0-iam_betty
 3-new_owner changes the owner of a file
 4-empty creates an empty file
 5-execute adds execute permission
-6- multiple execution adds executes permission to the owner`
+6- multiple execution adds executes permission to the owner
+7-execute add execute permission to everyone`
