@@ -5,4 +5,5 @@ create 0-iam_betty
 4-empty creates an empty file
 5-execute adds execute permission
 6- multiple execution adds executes permission to the owner
-7-execute add execute permission to everyone`
+7-execute add execute permission to everyone
+8-James-Bond sets permission to the file`
