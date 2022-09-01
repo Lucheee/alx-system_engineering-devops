@@ -8,3 +8,4 @@ create 0-iam_betty
 7-execute add execute permission to everyone
 8-James-Bond sets permission to the file`
 9-John_Doe executes permission
+10-mirror_permissions sets the mode of the file
