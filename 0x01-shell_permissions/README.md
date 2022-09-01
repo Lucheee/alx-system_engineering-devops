@@ -9,4 +9,5 @@ create 0-iam_betty
 8-James-Bond sets permission to the file`
 9-John_Doe executes permission
 10-mirror_permissions sets the mode of the file
-11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
+11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+12-directory_permissions creates a directory called my_dir with permissions 751
