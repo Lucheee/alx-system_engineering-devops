@@ -1,1 +1,1 @@
-0x03-shell_variables_expansions
+7-create_global_variable
